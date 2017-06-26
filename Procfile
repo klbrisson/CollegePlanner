@@ -1,1 +1,1 @@
-web: npm run deploy -- production
+web: npm run build -- --release
